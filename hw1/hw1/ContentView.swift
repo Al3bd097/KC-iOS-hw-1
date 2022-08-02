@@ -24,8 +24,8 @@ struct ContentView: View {
             ExtractedView(movie_image: "Mugen train", movie_name: "Mugen train", movie_rating: "8.2")
             ExtractedView(movie_image: "Maverick", movie_name: "Top gun: Maverick", movie_rating: "8.6")
             ExtractedView(movie_image: "harry", movie_name: "Harry potter", movie_rating: "8.2")
-            ExtractedView(movie_image: "gladiator", movie_name: "Gladiator", movie_rating: "8.2")
-            ExtractedView(movie_image: "Whoami", movie_name: "Who am I", movie_rating: "8.2")
+            ExtractedView(movie_image: "gladiator", movie_name: "Gladiator", movie_rating: "8.5")
+            ExtractedView(movie_image: "Whoami", movie_name: "Who am I", movie_rating: "7.5")
             Spacer()
                 
     }

@@ -14,6 +14,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0FC43FF92899C2E7006DCBAA /* Bintton.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Bintton.ttf; sourceTree = "<group>"; };
+		0FC43FFA2899C2E9006DCBAA /* Bintton.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Bintton.ttf; path = ../../../../../../../Downloads/bintton/Bintton.ttf; sourceTree = "<group>"; };
 		0FE765E5289826A600E7EF9B /* hw1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hw1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FE765E8289826A600E7EF9B /* hw1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hw1App.swift; sourceTree = "<group>"; };
 		0FE765EA289826A600E7EF9B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +64,8 @@
 		0FE765EE289826A700E7EF9B /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				0FC43FF92899C2E7006DCBAA /* Bintton.ttf */,
+				0FC43FFA2899C2E9006DCBAA /* Bintton.ttf */,
 				0FE765EF289826A700E7EF9B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
