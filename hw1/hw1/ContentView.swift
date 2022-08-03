@@ -50,7 +50,6 @@ struct ExtractedView: View {
     var movie_rating: String
     
     var body: some View {
-        
             HStack{
                 
                 Image(movie_image)
@@ -70,7 +69,7 @@ struct ExtractedView: View {
             }
             .background(.white.opacity(0.3))
             .cornerRadius(24)
-            .font(.system(size: 30, weight: .medium, design: .serif))
+            .font(.custom("CormorantSC-Regular", size: 30))
             
             
             
