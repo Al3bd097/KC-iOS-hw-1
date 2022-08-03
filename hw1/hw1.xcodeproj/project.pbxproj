@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0FC43FFE289A4609006DCBAA /* Cormorant_SC in Resources */ = {isa = PBXBuildFile; fileRef = 0FC43FFD289A4609006DCBAA /* Cormorant_SC */; };
+		0FC44001289A81FD006DCBAA /* Cormorant_SC in Resources */ = {isa = PBXBuildFile; fileRef = 0FC44000289A81FD006DCBAA /* Cormorant_SC */; };
 		0FE765E9289826A600E7EF9B /* hw1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FE765E8289826A600E7EF9B /* hw1App.swift */; };
 		0FE765EB289826A600E7EF9B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FE765EA289826A600E7EF9B /* ContentView.swift */; };
 		0FE765ED289826A700E7EF9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FE765EC289826A700E7EF9B /* Assets.xcassets */; };
@@ -17,8 +17,8 @@
 /* Begin PBXFileReference section */
 		0FC43FF92899C2E7006DCBAA /* Bintton.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Bintton.ttf; sourceTree = "<group>"; };
 		0FC43FFA2899C2E9006DCBAA /* Bintton.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Bintton.ttf; path = ../../../../../../../Downloads/bintton/Bintton.ttf; sourceTree = "<group>"; };
-		0FC43FFD289A4609006DCBAA /* Cormorant_SC */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Cormorant_SC; path = ../../../../../../Downloads/Cormorant_SC; sourceTree = "<group>"; };
 		0FC43FFF289A4A1C006DCBAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		0FC44000289A81FD006DCBAA /* Cormorant_SC */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Cormorant_SC; sourceTree = "<group>"; };
 		0FE765E5289826A600E7EF9B /* hw1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hw1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FE765E8289826A600E7EF9B /* hw1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hw1App.swift; sourceTree = "<group>"; };
 		0FE765EA289826A600E7EF9B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -40,6 +40,7 @@
 		0FE765DC289826A600E7EF9B = {
 			isa = PBXGroup;
 			children = (
+				0FC44000289A81FD006DCBAA /* Cormorant_SC */,
 				0FE765E7289826A600E7EF9B /* hw1 */,
 				0FE765E6289826A600E7EF9B /* Products */,
 			);
@@ -59,7 +60,6 @@
 				0FC43FFF289A4A1C006DCBAA /* Info.plist */,
 				0FE765E8289826A600E7EF9B /* hw1App.swift */,
 				0FE765EA289826A600E7EF9B /* ContentView.swift */,
-				0FC43FFD289A4609006DCBAA /* Cormorant_SC */,
 				0FE765EC289826A700E7EF9B /* Assets.xcassets */,
 				0FE765EE289826A700E7EF9B /* Preview Content */,
 			);
@@ -135,7 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FE765F0289826A700E7EF9B /* Preview Assets.xcassets in Resources */,
-				0FC43FFE289A4609006DCBAA /* Cormorant_SC in Resources */,
+				0FC44001289A81FD006DCBAA /* Cormorant_SC in Resources */,
 				0FE765ED289826A700E7EF9B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
